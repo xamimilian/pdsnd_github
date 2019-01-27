@@ -1,3 +1,6 @@
+#Welcome to my bikeshare analytics tool!
+# First step is to import the modules time, pandas & numpy.
+
 import time
 import pandas as pd
 import numpy as np
