@@ -11,6 +11,8 @@ months = ["january", "february", "march", "april", "may", "june"]
 days=["sunday", "monday","tuesday","wednesday","thursday","friday","saturday"]
 yesno=["yes", "no"]
 
+#Funtion No 1 - Setting up filters and inputs.
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
