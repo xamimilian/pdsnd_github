@@ -19,6 +19,8 @@ months = ["january", "february", "march", "april", "may", "june"]
 days=["sunday", "monday","tuesday","wednesday","thursday","friday","saturday"]
 yesno=["yes", "no"]
 
+#Funtion No 1 - Setting up filters and inputs.
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
@@ -59,8 +61,7 @@ def get_filters():
     print("We will now fetch the data for\n city: {}\n month: {}\n day: {}".format(city, month, day))
     return city, month, day
 
-##### WORKING :)
-
+#Funtion No 2 - Setting up data frame.
 
 def load_data(city, month, day):
     """
@@ -100,6 +101,8 @@ def load_data(city, month, day):
         df = df[df['day_of_week'] == day.title()]
 
     return df
+
+#Funtion No 3 - Setting up time analytics.
 
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
