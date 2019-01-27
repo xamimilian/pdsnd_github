@@ -1,9 +1,12 @@
 #Welcome to my bikeshare analytics tool!
 # First step is to import the modules time, pandas & numpy.
 
+
 import time
 import pandas as pd
 import numpy as np
+
+# to run this tool we need to import one of the folowing data sets. these sets are provided by XYZself.
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
