@@ -53,8 +53,7 @@ def get_filters():
     print("We will now fetch the data for\n city: {}\n month: {}\n day: {}".format(city, month, day))
     return city, month, day
 
-##### WORKING :)
-
+#Funtion No 2 - Setting up data frame.
 
 def load_data(city, month, day):
     """
