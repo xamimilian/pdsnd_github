@@ -12,6 +12,8 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+# All lists needed are listed here.
+
 cities=["chicago", "new york city", "washington"]
 months = ["january", "february", "march", "april", "may", "june"]
 days=["sunday", "monday","tuesday","wednesday","thursday","friday","saturday"]
