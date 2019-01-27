@@ -6,6 +6,7 @@ Exploring Bikeshare Data
 
 ### Description
 The tool helps you to explore the bikeshare data of the cities Chicago, New York City & Washington.
+You can explore the data filtered by city, month and day.
 
 ### Files used
 - bikeshare_MaxKaelbert.py
