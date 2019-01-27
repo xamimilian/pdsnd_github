@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+24.01.2019
 
 ### Project Title
-Replace the Project Title
+Exploring Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+The tool helps you to explore the bikeshare data of the cities Chicago, New York City & Washington.
 
 ### Files used
-Include the files used
+- bikeshare_MaxKaelbert.py
+- chigaco.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+all credits go to the brilliant course of udacity!
